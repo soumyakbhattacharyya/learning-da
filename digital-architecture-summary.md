@@ -1,0 +1,125 @@
+# business-drivers
+- customer experience
+- new business model
+- operational improvement
+# 10 principles
+- customer first
+- omni - channel
+- modular, service driven
+- domain driven design
+- api first approach
+- event driven architecture
+- cloud native
+- data is the new oil
+- integration and automation
+- decouple but reuse legacy
+# buiding block
+- cloud
+- microservices
+- api
+- integration
+- serverless
+- reliability engineering
+- data and analytics
+# architectural style
+- layered architecture
+- web queue worker
+- microservices
+- event driven architecture
+- lambda architecture
+- micro frontend
+# cloud adoption strategy
+- cloud as infrastructure
+    - lift and shift
+- cloud for services, scale
+    - new services
+    - database
+    - queue
+    - DevOps
+    - 12 Factor App
+- cloud native
+    - new application
+    - conrainers
+    - serverless
+    - paas
+    - benefits
+        - 12 Factor Principles
+        - elastic
+        - resilient
+        - observable
+        - distributed
+        - programmable
+# microservices patterns
+# integration
+- enterprise app integration
+- process integration
+- event based integration
+- api based integration
+- iot integration
+- data integration
+# analytics
+# database
+# reliability engineering
+- development
+    - CI/CD pipeline
+    - Infrastructure as code
+    - Design for scale
+- production
+    - Monitoring
+    - Aggregated logging
+    - Canary, Blue - Green Deployment
+    - Chaos Engineering
+# high performance architecture
+# steps for deriving architecture
+- find the goal of solution architecture
+    - find the business driver
+    - perform market research
+    - review 10 principles
+    - draw big picture view
+    - questions
+        - what are the goals
+        - is there any player
+        - what are the principle to apply
+        - what is the big picture view
+- draw the logical architecture
+    - identify the logical layers
+    - find out the the right architectural style
+    - find out the right buidling block
+- detail the logical architecture
+    - frontend
+        - SPA?
+        - micro - frontend?
+    - api gateway
+    - channel layer
+        - microservices
+        - container orchestration
+        - event handling framework
+        - platform services
+        - service registry, discovery, load balancing, orchestration
+        - cdn
+        - database
+        - deployment automation
+        - monitoring
+    - data management
+        - data
+        - analytics
+    - messaging middleware
+    - 12 factor app factors
+    - applicability of microservices
+    - can I support microservices lifecycle
+    - design consideration
+        - lightweight
+        - stateless
+        - recative
+        - resilient
+        - versioned
+        - bounded context 
+        - externalize configuration
+        - microservices design patterns
+    - questions
+        - can I manp the component of cloud native reference architecture
+        - are the existing app 12 factor compliant
+        - where can we apply microservices and why
+        - what lifecycle and design consideration should stay valid
+        - can I apply microservices design pattern
+        - where can I apply serverless constructs
